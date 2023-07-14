@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656730025506",
+    "project_id": "lost-and-found-6845e",
+    "storage_bucket": "lost-and-found-6845e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656730025506:android:2db23031ed88cfcf84a47b",
+        "android_client_info": {
+          "package_name": "com.example.lostandfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656730025506-58jcf7nhbipk9efi5s8ia6dfj8u1o9bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVoSEg6zIEj00hms2dBd4ALeAElf1Ojxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656730025506-58jcf7nhbipk9efi5s8ia6dfj8u1o9bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
